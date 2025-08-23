@@ -60,7 +60,7 @@
 
 	<profiles>
 		<profile>
-			<id>SmokeSuite</id>
+			<id>ForMadam</id>
 			<build>
 				<plugins>
 					<plugin>
@@ -69,7 +69,7 @@
 						<version>3.5.3</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>SmokeSuite1.xml</suiteXmlFile>
+								<suiteXmlFile>ForMadam.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
