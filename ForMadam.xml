@@ -2,7 +2,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Prep___.SampleForMadam"/>
+      <class name="Prep___.ReadDataFromCMDLine"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

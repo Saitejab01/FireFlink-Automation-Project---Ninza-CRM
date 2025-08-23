@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 public class ReadDataFromCMDLine {
 	@Test
 	public void readData() {
+		
+		
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
 		String UN = System.getProperty("un");
