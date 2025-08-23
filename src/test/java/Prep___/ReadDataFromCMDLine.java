@@ -7,6 +7,8 @@ public class ReadDataFromCMDLine {
 	public void readData() {
 		
 		
+		
+		
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
 		String UN = System.getProperty("un");
